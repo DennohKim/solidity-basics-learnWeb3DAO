@@ -1,0 +1,6 @@
+Variables in Solidity
+
+1. Local - declared inside a function and are not stored on the blockchain
+2. State - Declared outside the function to maintain state of a smart contract. There also stored on the blockchain
+3. Global - Provide information about the blockchain. Injected by EVM during ruuntime. Examples...transactiion sender, block, timestamp, block hash
+
